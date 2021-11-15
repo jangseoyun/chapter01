@@ -23,6 +23,7 @@ public class Ex05 {
 				
 		System.out.println("깃 테스트 버전020202");
 		System.out.println("깃 테스트 버전0202034");
+		System.out.println("깃 테스트 버전0202344");
 		sc.close();
 	
 	}
